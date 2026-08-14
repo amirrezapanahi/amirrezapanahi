@@ -16,27 +16,6 @@ I build practical, maintainable systems across **web development, automation, ro
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Software Developer** interested in building reliable systems that connect **software, hardware, and real-world automation**.
-
-My work spans frontend interfaces, backend services, APIs, databases, automation tools, robotics, IoT systems, and microcontroller-based projects.
-
-I'm particularly interested in projects where software interacts with **devices, sensors, actuators, and physical systems**.
-
-### What I care about
-
-- Clean and maintainable code
-- Simple and scalable architecture
-- Full-stack application development
-- Hardware-software integration
-- Robotics and embedded systems
-- Practical automation
-- Thoughtful user experience
-- Continuous learning
-
----
-
 ## 🧰 Tech Stack
 
 ### 💻 Languages
