@@ -92,16 +92,6 @@ Full-Stack Applications       Robotics & Embedded       IoT & Automation
 
 ---
 
-## 🚀 Selected Projects
-
-<!-- PROJECTS:START -->
-
-> No featured projects yet. Add the `featured` topic to a repository.
-
-<!-- PROJECTS:END -->
-
----
-
 ## 🎯 Areas of Interest
 
 **Full-Stack Development** · **Backend Engineering** · **Frontend Engineering** · **Robotics** · **Embedded Systems** · **IoT** · **Automation** · **Hardware-Software Integration** · **Developer Tools** · **System Architecture**
